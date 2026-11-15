@@ -5,7 +5,7 @@ I enjoy creating websites, programming and making stylized 3D models.
 
 Favorite Tech
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,blender,Live2D" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,blender,live2D" />
 </p>
 
 🌱 Currently learning
