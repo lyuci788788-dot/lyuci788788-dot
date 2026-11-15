@@ -3,8 +3,9 @@
 I'm a developer and 3D artist.
 I enjoy creating websites, programming and making stylized 3D models.
 
+Favorite Tech
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,blender,live 2d" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,blender,Live2D" />
 </p>
 
 🌱 Currently learning
